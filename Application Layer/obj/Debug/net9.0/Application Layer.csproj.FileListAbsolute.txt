@@ -1,0 +1,34 @@
+D:\My Work\Application Layer\bin\Debug\net9.0\Application Layer.deps.json
+D:\My Work\Application Layer\bin\Debug\net9.0\Application Layer.dll
+D:\My Work\Application Layer\bin\Debug\net9.0\Application Layer.pdb
+D:\My Work\Application Layer\bin\Debug\net9.0\Domain.dll
+D:\My Work\Application Layer\bin\Debug\net9.0\Domain.pdb
+D:\My Work\Application Layer\obj\Debug\net9.0\Application Layer.csproj.AssemblyReference.cache
+D:\My Work\Application Layer\obj\Debug\net9.0\Application Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Application Layer\obj\Debug\net9.0\Application Layer.AssemblyInfoInputs.cache
+D:\My Work\Application Layer\obj\Debug\net9.0\Application Layer.AssemblyInfo.cs
+D:\My Work\Application Layer\obj\Debug\net9.0\Application Layer.csproj.CoreCompileInputs.cache
+D:\My Work\Application Layer\obj\Debug\net9.0\Applicat.A7418506.Up2Date
+D:\My Work\Application Layer\obj\Debug\net9.0\Application Layer.dll
+D:\My Work\Application Layer\obj\Debug\net9.0\refint\Application Layer.dll
+D:\My Work\Application Layer\obj\Debug\net9.0\Application Layer.pdb
+D:\My Work\Application Layer\obj\Debug\net9.0\ref\Application Layer.dll
+D:\My Work\Application Layer\bin\Debug\net9.0\Infrastructure Layer.dll
+D:\My Work\Application Layer\bin\Debug\net9.0\Infrastructure Layer.pdb
+D:\My Work\ProjectTaskManagement\Application Layer\bin\Debug\net9.0\Application Layer.deps.json
+D:\My Work\ProjectTaskManagement\Application Layer\bin\Debug\net9.0\Application Layer.dll
+D:\My Work\ProjectTaskManagement\Application Layer\bin\Debug\net9.0\Application Layer.pdb
+D:\My Work\ProjectTaskManagement\Application Layer\bin\Debug\net9.0\Domain.dll
+D:\My Work\ProjectTaskManagement\Application Layer\bin\Debug\net9.0\Infrastructure Layer.dll
+D:\My Work\ProjectTaskManagement\Application Layer\bin\Debug\net9.0\Domain.pdb
+D:\My Work\ProjectTaskManagement\Application Layer\bin\Debug\net9.0\Infrastructure Layer.pdb
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Application Layer.csproj.AssemblyReference.cache
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Application Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Application Layer.AssemblyInfoInputs.cache
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Application Layer.AssemblyInfo.cs
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Application Layer.csproj.CoreCompileInputs.cache
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Applicat.A7418506.Up2Date
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Application Layer.dll
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\refint\Application Layer.dll
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\Application Layer.pdb
+D:\My Work\ProjectTaskManagement\Application Layer\obj\Debug\net9.0\ref\Application Layer.dll

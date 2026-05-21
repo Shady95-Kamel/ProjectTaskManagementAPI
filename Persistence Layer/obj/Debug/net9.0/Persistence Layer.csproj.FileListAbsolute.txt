@@ -1,0 +1,42 @@
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Persistence Layer.deps.json
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Persistence Layer.runtimeconfig.json
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Persistence Layer.dll
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Persistence Layer.pdb
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Domain.dll
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Domain.pdb
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.csproj.AssemblyReference.cache
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.AssemblyInfoInputs.cache
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.AssemblyInfo.cs
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.csproj.CoreCompileInputs.cache
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persiste.0348F072.Up2Date
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.dll
+D:\My Work\Persistence Layer\obj\Debug\net9.0\refint\Persistence Layer.dll
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.pdb
+D:\My Work\Persistence Layer\obj\Debug\net9.0\Persistence Layer.genruntimeconfig.cache
+D:\My Work\Persistence Layer\obj\Debug\net9.0\ref\Persistence Layer.dll
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Application Layer.dll
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Infrastructure Layer.dll
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Application Layer.pdb
+D:\My Work\Persistence Layer\bin\Debug\net9.0\Infrastructure Layer.pdb
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Persistence Layer.deps.json
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Persistence Layer.runtimeconfig.json
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Persistence Layer.dll
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Persistence Layer.pdb
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Application Layer.dll
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Domain.dll
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Infrastructure Layer.dll
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Application Layer.pdb
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Domain.pdb
+D:\My Work\ProjectTaskManagement\Persistence Layer\bin\Debug\net9.0\Infrastructure Layer.pdb
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.csproj.AssemblyReference.cache
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.AssemblyInfoInputs.cache
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.AssemblyInfo.cs
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.csproj.CoreCompileInputs.cache
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persiste.0348F072.Up2Date
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.dll
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\refint\Persistence Layer.dll
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.pdb
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\Persistence Layer.genruntimeconfig.cache
+D:\My Work\ProjectTaskManagement\Persistence Layer\obj\Debug\net9.0\ref\Persistence Layer.dll
